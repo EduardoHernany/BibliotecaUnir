@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BibliotecaUnir</string>
+
+    <string-array name="dialog_items">
+        <item>Editar</item>
+        <item>Excluir</item>
+    </string-array>
+</resources>
